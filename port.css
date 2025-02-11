@@ -272,6 +272,8 @@ form textarea{
   border: 2px solid rgb(81, 221, 217);
   margin-bottom: 5px;
   padding-right:30px;
+  background-color: black;
+  
 }
 form textarea::placeholder{
   color: white;
